@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\03.MaximumAndMinimumElement\obj\Debug\net6.0\03.MaximumAndMinimumElement.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\03.MaximumAndMinimumElement\obj\Debug\net6.0\03.MaximumAndMinimumElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\03.MaximumAndMinimumElement\obj\Debug\net6.0\03.MaximumAndMinimumElement.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\03.MaximumAndMinimumElement\obj\Debug\net6.0\03.MaximumAndMinimumElement.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\03.MaximumAndMinimumElement\obj\Debug\net6.0\03.MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\03.MaximumAndMinimumElement\bin\Debug\net6.0\03.MaximumAndMinimumElement.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\03.MaximumAndMinimumElement\bin\Debug\net6.0\03.MaximumAndMinimumElement.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\03.MaximumAndMinimumElement\bin\Debug\net6.0\03.MaximumAndMinimumElement.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\03.MaximumAndMinimumElement\bin\Debug\net6.0\03.MaximumAndMinimumElement.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\03.MaximumAndMinimumElement\bin\Debug\net6.0\03.MaximumAndMinimumElement.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\03.MaximumAndMinimumElement\obj\Debug\net6.0\03.MaximumAndMinimumElement.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\03.MaximumAndMinimumElement\obj\Debug\net6.0\refint\03.MaximumAndMinimumElement.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\03.MaximumAndMinimumElement\obj\Debug\net6.0\03.MaximumAndMinimumElement.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\03.MaximumAndMinimumElement\obj\Debug\net6.0\03.MaximumAndMinimumElement.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\03.MaximumAndMinimumElement\obj\Debug\net6.0\ref\03.MaximumAndMinimumElement.dll
