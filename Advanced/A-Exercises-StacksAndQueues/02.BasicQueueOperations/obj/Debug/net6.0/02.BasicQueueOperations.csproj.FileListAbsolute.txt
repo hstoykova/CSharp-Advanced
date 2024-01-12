@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\02.BasicQueueOperations\bin\Debug\net6.0\02.BasicQueueOperations.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\02.BasicQueueOperations\bin\Debug\net6.0\02.BasicQueueOperations.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\02.BasicQueueOperations\bin\Debug\net6.0\02.BasicQueueOperations.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\02.BasicQueueOperations\bin\Debug\net6.0\02.BasicQueueOperations.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\02.BasicQueueOperations\bin\Debug\net6.0\02.BasicQueueOperations.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\02.BasicQueueOperations\obj\Debug\net6.0\02.BasicQueueOperations.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\02.BasicQueueOperations\obj\Debug\net6.0\02.BasicQueueOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\02.BasicQueueOperations\obj\Debug\net6.0\02.BasicQueueOperations.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\02.BasicQueueOperations\obj\Debug\net6.0\02.BasicQueueOperations.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\02.BasicQueueOperations\obj\Debug\net6.0\02.BasicQueueOperations.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\02.BasicQueueOperations\obj\Debug\net6.0\02.BasicQueueOperations.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\02.BasicQueueOperations\obj\Debug\net6.0\refint\02.BasicQueueOperations.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\02.BasicQueueOperations\obj\Debug\net6.0\02.BasicQueueOperations.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\02.BasicQueueOperations\obj\Debug\net6.0\02.BasicQueueOperations.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\02.BasicQueueOperations\obj\Debug\net6.0\ref\02.BasicQueueOperations.dll
