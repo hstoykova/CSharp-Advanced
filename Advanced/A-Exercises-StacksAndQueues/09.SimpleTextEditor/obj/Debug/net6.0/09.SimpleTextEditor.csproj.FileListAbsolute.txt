@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\09.SimpleTextEditor\bin\Debug\net6.0\09.SimpleTextEditor.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\09.SimpleTextEditor\bin\Debug\net6.0\09.SimpleTextEditor.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\09.SimpleTextEditor\bin\Debug\net6.0\09.SimpleTextEditor.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\09.SimpleTextEditor\bin\Debug\net6.0\09.SimpleTextEditor.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\09.SimpleTextEditor\bin\Debug\net6.0\09.SimpleTextEditor.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\09.SimpleTextEditor\obj\Debug\net6.0\refint\09.SimpleTextEditor.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-StacksAndQueues\09.SimpleTextEditor\obj\Debug\net6.0\ref\09.SimpleTextEditor.dll
