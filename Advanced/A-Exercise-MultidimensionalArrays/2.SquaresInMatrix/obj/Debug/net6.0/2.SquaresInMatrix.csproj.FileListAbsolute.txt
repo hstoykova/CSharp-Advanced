@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\2.SquaresInMatrix\bin\Debug\net6.0\2.SquaresInMatrix.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\2.SquaresInMatrix\bin\Debug\net6.0\2.SquaresInMatrix.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\2.SquaresInMatrix\bin\Debug\net6.0\2.SquaresInMatrix.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\2.SquaresInMatrix\bin\Debug\net6.0\2.SquaresInMatrix.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\2.SquaresInMatrix\bin\Debug\net6.0\2.SquaresInMatrix.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\2.SquaresInMatrix\obj\Debug\net6.0\2.SquaresInMatrix.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\2.SquaresInMatrix\obj\Debug\net6.0\2.SquaresInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\2.SquaresInMatrix\obj\Debug\net6.0\2.SquaresInMatrix.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\2.SquaresInMatrix\obj\Debug\net6.0\2.SquaresInMatrix.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\2.SquaresInMatrix\obj\Debug\net6.0\2.SquaresInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\2.SquaresInMatrix\obj\Debug\net6.0\2.SquaresInMatrix.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\2.SquaresInMatrix\obj\Debug\net6.0\refint\2.SquaresInMatrix.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\2.SquaresInMatrix\obj\Debug\net6.0\2.SquaresInMatrix.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\2.SquaresInMatrix\obj\Debug\net6.0\2.SquaresInMatrix.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\2.SquaresInMatrix\obj\Debug\net6.0\ref\2.SquaresInMatrix.dll
