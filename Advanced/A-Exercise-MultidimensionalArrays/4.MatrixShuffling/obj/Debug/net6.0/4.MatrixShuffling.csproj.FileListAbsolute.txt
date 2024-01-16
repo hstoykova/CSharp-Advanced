@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\4.MatrixShuffling\bin\Debug\net6.0\4.MatrixShuffling.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\4.MatrixShuffling\bin\Debug\net6.0\4.MatrixShuffling.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\4.MatrixShuffling\bin\Debug\net6.0\4.MatrixShuffling.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\4.MatrixShuffling\bin\Debug\net6.0\4.MatrixShuffling.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\4.MatrixShuffling\bin\Debug\net6.0\4.MatrixShuffling.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\4.MatrixShuffling\obj\Debug\net6.0\4.MatrixShuffling.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\4.MatrixShuffling\obj\Debug\net6.0\4.MatrixShuffling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\4.MatrixShuffling\obj\Debug\net6.0\4.MatrixShuffling.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\4.MatrixShuffling\obj\Debug\net6.0\4.MatrixShuffling.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\4.MatrixShuffling\obj\Debug\net6.0\4.MatrixShuffling.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\4.MatrixShuffling\obj\Debug\net6.0\4.MatrixShuffling.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\4.MatrixShuffling\obj\Debug\net6.0\refint\4.MatrixShuffling.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\4.MatrixShuffling\obj\Debug\net6.0\4.MatrixShuffling.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\4.MatrixShuffling\obj\Debug\net6.0\4.MatrixShuffling.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\4.MatrixShuffling\obj\Debug\net6.0\ref\4.MatrixShuffling.dll
