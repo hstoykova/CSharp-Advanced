@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-StacksAndQueues\2.StackSum\bin\Debug\net6.0\2.StackSum.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-StacksAndQueues\2.StackSum\bin\Debug\net6.0\2.StackSum.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-StacksAndQueues\2.StackSum\bin\Debug\net6.0\2.StackSum.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-StacksAndQueues\2.StackSum\bin\Debug\net6.0\2.StackSum.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-StacksAndQueues\2.StackSum\bin\Debug\net6.0\2.StackSum.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-StacksAndQueues\2.StackSum\obj\Debug\net6.0\2.StackSum.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-StacksAndQueues\2.StackSum\obj\Debug\net6.0\2.StackSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-StacksAndQueues\2.StackSum\obj\Debug\net6.0\2.StackSum.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-StacksAndQueues\2.StackSum\obj\Debug\net6.0\2.StackSum.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-StacksAndQueues\2.StackSum\obj\Debug\net6.0\2.StackSum.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-StacksAndQueues\2.StackSum\obj\Debug\net6.0\2.StackSum.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-StacksAndQueues\2.StackSum\obj\Debug\net6.0\refint\2.StackSum.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-StacksAndQueues\2.StackSum\obj\Debug\net6.0\2.StackSum.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-StacksAndQueues\2.StackSum\obj\Debug\net6.0\2.StackSum.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-StacksAndQueues\2.StackSum\obj\Debug\net6.0\ref\2.StackSum.dll
