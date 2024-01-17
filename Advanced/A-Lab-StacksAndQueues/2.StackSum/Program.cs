@@ -21,7 +21,8 @@ namespace _2.StackSum
         static void Main(string[] args)
         {
             int[] input = Console.ReadLine().Split().Select(int.Parse).ToArray();
-            Stack<int> elements = new Stack<int>(input);
+
+            Stack<int> elements = new Stack<int>(input); // !!! Пълним данни в стека - МНОГО ВАЖНО
             string command = Console.ReadLine().ToLower();
 
             while (command != "end")
@@ -40,7 +41,6 @@ namespace _2.StackSum
 
                     if (countToPop <= elements.Count)
                     {
-
                         for (int i = 0; i < countToPop; i++)
                         {
                             elements.Pop();

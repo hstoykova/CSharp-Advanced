@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-StacksAndQueues\3.SimpleCalculator\bin\Debug\net6.0\3.SimpleCalculator.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-StacksAndQueues\3.SimpleCalculator\bin\Debug\net6.0\3.SimpleCalculator.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-StacksAndQueues\3.SimpleCalculator\bin\Debug\net6.0\3.SimpleCalculator.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-StacksAndQueues\3.SimpleCalculator\bin\Debug\net6.0\3.SimpleCalculator.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-StacksAndQueues\3.SimpleCalculator\bin\Debug\net6.0\3.SimpleCalculator.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-StacksAndQueues\3.SimpleCalculator\obj\Debug\net6.0\3.SimpleCalculator.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-StacksAndQueues\3.SimpleCalculator\obj\Debug\net6.0\3.SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-StacksAndQueues\3.SimpleCalculator\obj\Debug\net6.0\3.SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-StacksAndQueues\3.SimpleCalculator\obj\Debug\net6.0\3.SimpleCalculator.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-StacksAndQueues\3.SimpleCalculator\obj\Debug\net6.0\3.SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-StacksAndQueues\3.SimpleCalculator\obj\Debug\net6.0\3.SimpleCalculator.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-StacksAndQueues\3.SimpleCalculator\obj\Debug\net6.0\refint\3.SimpleCalculator.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-StacksAndQueues\3.SimpleCalculator\obj\Debug\net6.0\3.SimpleCalculator.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-StacksAndQueues\3.SimpleCalculator\obj\Debug\net6.0\3.SimpleCalculator.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-StacksAndQueues\3.SimpleCalculator\obj\Debug\net6.0\ref\3.SimpleCalculator.dll
