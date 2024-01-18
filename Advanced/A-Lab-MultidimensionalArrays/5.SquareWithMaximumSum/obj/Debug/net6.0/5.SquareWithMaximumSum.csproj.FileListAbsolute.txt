@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\5.SquareWithMaximumSum\bin\Debug\net6.0\5.SquareWithMaximumSum.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\5.SquareWithMaximumSum\bin\Debug\net6.0\5.SquareWithMaximumSum.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\5.SquareWithMaximumSum\bin\Debug\net6.0\5.SquareWithMaximumSum.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\5.SquareWithMaximumSum\bin\Debug\net6.0\5.SquareWithMaximumSum.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\5.SquareWithMaximumSum\bin\Debug\net6.0\5.SquareWithMaximumSum.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\5.SquareWithMaximumSum\obj\Debug\net6.0\5.SquareWithMaximumSum.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\5.SquareWithMaximumSum\obj\Debug\net6.0\5.SquareWithMaximumSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\5.SquareWithMaximumSum\obj\Debug\net6.0\5.SquareWithMaximumSum.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\5.SquareWithMaximumSum\obj\Debug\net6.0\5.SquareWithMaximumSum.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\5.SquareWithMaximumSum\obj\Debug\net6.0\5.SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\5.SquareWithMaximumSum\obj\Debug\net6.0\5.SquareWithMaximumSum.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\5.SquareWithMaximumSum\obj\Debug\net6.0\refint\5.SquareWithMaximumSum.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\5.SquareWithMaximumSum\obj\Debug\net6.0\5.SquareWithMaximumSum.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\5.SquareWithMaximumSum\obj\Debug\net6.0\5.SquareWithMaximumSum.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\5.SquareWithMaximumSum\obj\Debug\net6.0\ref\5.SquareWithMaximumSum.dll
