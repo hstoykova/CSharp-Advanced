@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\1.SumMatrixElements\bin\Debug\net6.0\1.SumMatrixElements.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\1.SumMatrixElements\bin\Debug\net6.0\1.SumMatrixElements.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\1.SumMatrixElements\bin\Debug\net6.0\1.SumMatrixElements.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\1.SumMatrixElements\bin\Debug\net6.0\1.SumMatrixElements.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\1.SumMatrixElements\bin\Debug\net6.0\1.SumMatrixElements.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\1.SumMatrixElements\obj\Debug\net6.0\1.SumMatrixElements.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\1.SumMatrixElements\obj\Debug\net6.0\1.SumMatrixElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\1.SumMatrixElements\obj\Debug\net6.0\1.SumMatrixElements.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\1.SumMatrixElements\obj\Debug\net6.0\1.SumMatrixElements.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\1.SumMatrixElements\obj\Debug\net6.0\1.SumMatrixElements.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\1.SumMatrixElements\obj\Debug\net6.0\1.SumMatrixElements.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\1.SumMatrixElements\obj\Debug\net6.0\refint\1.SumMatrixElements.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\1.SumMatrixElements\obj\Debug\net6.0\1.SumMatrixElements.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\1.SumMatrixElements\obj\Debug\net6.0\1.SumMatrixElements.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\1.SumMatrixElements\obj\Debug\net6.0\ref\1.SumMatrixElements.dll
