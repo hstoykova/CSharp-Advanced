@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\3.PrimaryDiagonal\bin\Debug\net6.0\3.PrimaryDiagonal.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\3.PrimaryDiagonal\bin\Debug\net6.0\3.PrimaryDiagonal.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\3.PrimaryDiagonal\bin\Debug\net6.0\3.PrimaryDiagonal.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\3.PrimaryDiagonal\bin\Debug\net6.0\3.PrimaryDiagonal.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\3.PrimaryDiagonal\bin\Debug\net6.0\3.PrimaryDiagonal.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\3.PrimaryDiagonal\obj\Debug\net6.0\3.PrimaryDiagonal.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\3.PrimaryDiagonal\obj\Debug\net6.0\3.PrimaryDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\3.PrimaryDiagonal\obj\Debug\net6.0\3.PrimaryDiagonal.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\3.PrimaryDiagonal\obj\Debug\net6.0\3.PrimaryDiagonal.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\3.PrimaryDiagonal\obj\Debug\net6.0\3.PrimaryDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\3.PrimaryDiagonal\obj\Debug\net6.0\3.PrimaryDiagonal.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\3.PrimaryDiagonal\obj\Debug\net6.0\refint\3.PrimaryDiagonal.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\3.PrimaryDiagonal\obj\Debug\net6.0\3.PrimaryDiagonal.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\3.PrimaryDiagonal\obj\Debug\net6.0\3.PrimaryDiagonal.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\3.PrimaryDiagonal\obj\Debug\net6.0\ref\3.PrimaryDiagonal.dll
