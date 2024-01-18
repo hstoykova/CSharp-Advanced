@@ -29,10 +29,8 @@ namespace _3.PrimaryDiagonal
             }
 
             int primary = 0;
-            int secondary = 0;
 
             // Обхождаме матрицата
-
             for (int row = 0; row < size; row++)
             {
                 for (int col = 0; col < size; col++)
