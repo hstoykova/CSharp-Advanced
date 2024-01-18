@@ -35,7 +35,7 @@ namespace _6.Jagged_ArrayModification
                 int col = int.Parse(splitted[2]);
                 int value = int.Parse(splitted[3]);
 
-                if (row < 0 || row >= jaggedArray.Length || col < 0 || col >= jaggedArray[row].Length) // possible mistake here: col >= jaggedArray[row].Length
+                if (row < 0 || row >= jaggedArray.Length || col < 0 || col >= jaggedArray[row].Length) // jaggedArray[row].Length - брой колони
                 {
                     Console.WriteLine("Invalid coordinates");
                 }

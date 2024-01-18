@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\7.PascalTriangle\bin\Debug\net6.0\7.PascalTriangle.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\7.PascalTriangle\bin\Debug\net6.0\7.PascalTriangle.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\7.PascalTriangle\bin\Debug\net6.0\7.PascalTriangle.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\7.PascalTriangle\bin\Debug\net6.0\7.PascalTriangle.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\7.PascalTriangle\bin\Debug\net6.0\7.PascalTriangle.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\7.PascalTriangle\obj\Debug\net6.0\7.PascalTriangle.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\7.PascalTriangle\obj\Debug\net6.0\7.PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\7.PascalTriangle\obj\Debug\net6.0\7.PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\7.PascalTriangle\obj\Debug\net6.0\7.PascalTriangle.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\7.PascalTriangle\obj\Debug\net6.0\7.PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\7.PascalTriangle\obj\Debug\net6.0\7.PascalTriangle.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\7.PascalTriangle\obj\Debug\net6.0\refint\7.PascalTriangle.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\7.PascalTriangle\obj\Debug\net6.0\7.PascalTriangle.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\7.PascalTriangle\obj\Debug\net6.0\7.PascalTriangle.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-MultidimensionalArrays\7.PascalTriangle\obj\Debug\net6.0\ref\7.PascalTriangle.dll
