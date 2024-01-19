@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\5.SnakeMoves\bin\Debug\net6.0\5.SnakeMoves.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\5.SnakeMoves\bin\Debug\net6.0\5.SnakeMoves.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\5.SnakeMoves\bin\Debug\net6.0\5.SnakeMoves.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\5.SnakeMoves\bin\Debug\net6.0\5.SnakeMoves.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\5.SnakeMoves\bin\Debug\net6.0\5.SnakeMoves.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\5.SnakeMoves\obj\Debug\net6.0\5.SnakeMoves.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\5.SnakeMoves\obj\Debug\net6.0\5.SnakeMoves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\5.SnakeMoves\obj\Debug\net6.0\5.SnakeMoves.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\5.SnakeMoves\obj\Debug\net6.0\5.SnakeMoves.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\5.SnakeMoves\obj\Debug\net6.0\5.SnakeMoves.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\5.SnakeMoves\obj\Debug\net6.0\5.SnakeMoves.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\5.SnakeMoves\obj\Debug\net6.0\refint\5.SnakeMoves.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\5.SnakeMoves\obj\Debug\net6.0\5.SnakeMoves.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\5.SnakeMoves\obj\Debug\net6.0\5.SnakeMoves.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-MultidimensionalArrays\5.SnakeMoves\obj\Debug\net6.0\ref\5.SnakeMoves.dll

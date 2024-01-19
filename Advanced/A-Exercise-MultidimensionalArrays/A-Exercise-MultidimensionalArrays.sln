@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.SquaresInMatrix", "2.Squa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.MaximalSum", "3.MaximalSum\3.MaximalSum.csproj", "{4E0DF407-66B9-47C0-8D54-BAC664B93AA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework", "Homework\Homework.csproj", "{3A2B1BDE-EBEB-42BB-B2A8-5AE68DD85D84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework", "Homework\Homework.csproj", "{3A2B1BDE-EBEB-42BB-B2A8-5AE68DD85D84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.MatrixShuffling", "4.MatrixShuffling\4.MatrixShuffling.csproj", "{15DDF42C-72E3-48E4-9F39-57890920FB91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.MatrixShuffling", "4.MatrixShuffling\4.MatrixShuffling.csproj", "{15DDF42C-72E3-48E4-9F39-57890920FB91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.SnakeMoves", "5.SnakeMoves\5.SnakeMoves.csproj", "{1F1DBE3B-8E91-4313-B542-9BC9A932A544}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{15DDF42C-72E3-48E4-9F39-57890920FB91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15DDF42C-72E3-48E4-9F39-57890920FB91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15DDF42C-72E3-48E4-9F39-57890920FB91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F1DBE3B-8E91-4313-B542-9BC9A932A544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F1DBE3B-8E91-4313-B542-9BC9A932A544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F1DBE3B-8E91-4313-B542-9BC9A932A544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F1DBE3B-8E91-4313-B542-9BC9A932A544}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
