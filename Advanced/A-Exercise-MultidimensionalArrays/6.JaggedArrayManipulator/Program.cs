@@ -26,9 +26,12 @@ namespace _6.JaggedArrayManipulator
     {
         static void Main(string[] args)
         {
+            // получаваме брой на редовете от конзолата
             int rows = int.Parse(Console.ReadLine());
+            // създаваме назъбения масив/матрица
             int[][] jaggedArray = new int[rows][];
 
+            // пълним данни в матрицата
             for (int row = 0; row < rows; row++)
             {
                 int[] cols = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
@@ -36,6 +39,7 @@ namespace _6.JaggedArrayManipulator
                 jaggedArray[row] = cols;
             }
 
+            // извършваме първата част от проверката
             for (int row = 0; row < rows - 1; row++)
             {
                 if (jaggedArray[row].Length == jaggedArray[row + 1].Length)
@@ -59,6 +63,7 @@ namespace _6.JaggedArrayManipulator
                 }
             }
 
+            // получаваме команда от матрицата и извършваме втората част от проверката
             string command;
             while ((command = Console.ReadLine()) != "End")
             {
