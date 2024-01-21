@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-SetsAndDictionariesAdvanced\04.EvenTimes\bin\Debug\net6.0\04.EvenTimes.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-SetsAndDictionariesAdvanced\04.EvenTimes\bin\Debug\net6.0\04.EvenTimes.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-SetsAndDictionariesAdvanced\04.EvenTimes\bin\Debug\net6.0\04.EvenTimes.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-SetsAndDictionariesAdvanced\04.EvenTimes\bin\Debug\net6.0\04.EvenTimes.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-SetsAndDictionariesAdvanced\04.EvenTimes\bin\Debug\net6.0\04.EvenTimes.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-SetsAndDictionariesAdvanced\04.EvenTimes\obj\Debug\net6.0\04.EvenTimes.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-SetsAndDictionariesAdvanced\04.EvenTimes\obj\Debug\net6.0\04.EvenTimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-SetsAndDictionariesAdvanced\04.EvenTimes\obj\Debug\net6.0\04.EvenTimes.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-SetsAndDictionariesAdvanced\04.EvenTimes\obj\Debug\net6.0\04.EvenTimes.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-SetsAndDictionariesAdvanced\04.EvenTimes\obj\Debug\net6.0\04.EvenTimes.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-SetsAndDictionariesAdvanced\04.EvenTimes\obj\Debug\net6.0\04.EvenTimes.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-SetsAndDictionariesAdvanced\04.EvenTimes\obj\Debug\net6.0\refint\04.EvenTimes.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-SetsAndDictionariesAdvanced\04.EvenTimes\obj\Debug\net6.0\04.EvenTimes.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-SetsAndDictionariesAdvanced\04.EvenTimes\obj\Debug\net6.0\04.EvenTimes.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-SetsAndDictionariesAdvanced\04.EvenTimes\obj\Debug\net6.0\ref\04.EvenTimes.dll

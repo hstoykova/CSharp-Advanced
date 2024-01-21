@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SetsOfElements", "02.Set
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.PeriodicTable", "03.PeriodicTable\03.PeriodicTable.csproj", "{90B4FCB4-0DD9-4801-99D3-460EE2B1C69D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.EvenTimes", "04.EvenTimes\04.EvenTimes.csproj", "{921355A0-6ED6-4B8B-AA87-825086EAD5DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{90B4FCB4-0DD9-4801-99D3-460EE2B1C69D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90B4FCB4-0DD9-4801-99D3-460EE2B1C69D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90B4FCB4-0DD9-4801-99D3-460EE2B1C69D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{921355A0-6ED6-4B8B-AA87-825086EAD5DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{921355A0-6ED6-4B8B-AA87-825086EAD5DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{921355A0-6ED6-4B8B-AA87-825086EAD5DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{921355A0-6ED6-4B8B-AA87-825086EAD5DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
