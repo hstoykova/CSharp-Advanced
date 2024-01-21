@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-SetsAndDictionariesAdvanced\03.PeriodicTable\bin\Debug\net6.0\03.PeriodicTable.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-SetsAndDictionariesAdvanced\03.PeriodicTable\bin\Debug\net6.0\03.PeriodicTable.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-SetsAndDictionariesAdvanced\03.PeriodicTable\bin\Debug\net6.0\03.PeriodicTable.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-SetsAndDictionariesAdvanced\03.PeriodicTable\bin\Debug\net6.0\03.PeriodicTable.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-SetsAndDictionariesAdvanced\03.PeriodicTable\bin\Debug\net6.0\03.PeriodicTable.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-SetsAndDictionariesAdvanced\03.PeriodicTable\obj\Debug\net6.0\03.PeriodicTable.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-SetsAndDictionariesAdvanced\03.PeriodicTable\obj\Debug\net6.0\03.PeriodicTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-SetsAndDictionariesAdvanced\03.PeriodicTable\obj\Debug\net6.0\03.PeriodicTable.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-SetsAndDictionariesAdvanced\03.PeriodicTable\obj\Debug\net6.0\03.PeriodicTable.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-SetsAndDictionariesAdvanced\03.PeriodicTable\obj\Debug\net6.0\03.PeriodicTable.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-SetsAndDictionariesAdvanced\03.PeriodicTable\obj\Debug\net6.0\03.PeriodicTable.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-SetsAndDictionariesAdvanced\03.PeriodicTable\obj\Debug\net6.0\refint\03.PeriodicTable.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-SetsAndDictionariesAdvanced\03.PeriodicTable\obj\Debug\net6.0\03.PeriodicTable.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-SetsAndDictionariesAdvanced\03.PeriodicTable\obj\Debug\net6.0\03.PeriodicTable.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-SetsAndDictionariesAdvanced\03.PeriodicTable\obj\Debug\net6.0\ref\03.PeriodicTable.dll
