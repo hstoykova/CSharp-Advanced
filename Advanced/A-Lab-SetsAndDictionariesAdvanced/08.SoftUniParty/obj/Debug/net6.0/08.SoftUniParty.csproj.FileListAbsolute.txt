@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-SetsAndDictionariesAdvanced\08.SoftUniParty\bin\Debug\net6.0\08.SoftUniParty.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-SetsAndDictionariesAdvanced\08.SoftUniParty\bin\Debug\net6.0\08.SoftUniParty.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-SetsAndDictionariesAdvanced\08.SoftUniParty\bin\Debug\net6.0\08.SoftUniParty.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-SetsAndDictionariesAdvanced\08.SoftUniParty\bin\Debug\net6.0\08.SoftUniParty.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-SetsAndDictionariesAdvanced\08.SoftUniParty\bin\Debug\net6.0\08.SoftUniParty.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-SetsAndDictionariesAdvanced\08.SoftUniParty\obj\Debug\net6.0\08.SoftUniParty.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-SetsAndDictionariesAdvanced\08.SoftUniParty\obj\Debug\net6.0\08.SoftUniParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-SetsAndDictionariesAdvanced\08.SoftUniParty\obj\Debug\net6.0\08.SoftUniParty.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-SetsAndDictionariesAdvanced\08.SoftUniParty\obj\Debug\net6.0\08.SoftUniParty.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-SetsAndDictionariesAdvanced\08.SoftUniParty\obj\Debug\net6.0\08.SoftUniParty.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-SetsAndDictionariesAdvanced\08.SoftUniParty\obj\Debug\net6.0\08.SoftUniParty.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-SetsAndDictionariesAdvanced\08.SoftUniParty\obj\Debug\net6.0\refint\08.SoftUniParty.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-SetsAndDictionariesAdvanced\08.SoftUniParty\obj\Debug\net6.0\08.SoftUniParty.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-SetsAndDictionariesAdvanced\08.SoftUniParty\obj\Debug\net6.0\08.SoftUniParty.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-SetsAndDictionariesAdvanced\08.SoftUniParty\obj\Debug\net6.0\ref\08.SoftUniParty.dll
