@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-Streams,FilesAndDirectories\EvenLines\bin\Debug\net6.0\EvenLines.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-Streams,FilesAndDirectories\EvenLines\bin\Debug\net6.0\EvenLines.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-Streams,FilesAndDirectories\EvenLines\bin\Debug\net6.0\EvenLines.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-Streams,FilesAndDirectories\EvenLines\bin\Debug\net6.0\EvenLines.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-Streams,FilesAndDirectories\EvenLines\bin\Debug\net6.0\EvenLines.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-Streams,FilesAndDirectories\EvenLines\obj\Debug\net6.0\EvenLines.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-Streams,FilesAndDirectories\EvenLines\obj\Debug\net6.0\EvenLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-Streams,FilesAndDirectories\EvenLines\obj\Debug\net6.0\EvenLines.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-Streams,FilesAndDirectories\EvenLines\obj\Debug\net6.0\EvenLines.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-Streams,FilesAndDirectories\EvenLines\obj\Debug\net6.0\EvenLines.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-Streams,FilesAndDirectories\EvenLines\obj\Debug\net6.0\EvenLines.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-Streams,FilesAndDirectories\EvenLines\obj\Debug\net6.0\refint\EvenLines.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-Streams,FilesAndDirectories\EvenLines\obj\Debug\net6.0\EvenLines.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-Streams,FilesAndDirectories\EvenLines\obj\Debug\net6.0\EvenLines.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercises-Streams,FilesAndDirectories\EvenLines\obj\Debug\net6.0\ref\EvenLines.dll
