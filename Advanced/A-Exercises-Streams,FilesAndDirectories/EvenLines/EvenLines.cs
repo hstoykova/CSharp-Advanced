@@ -5,7 +5,6 @@ using System.Text;
 
 namespace EvenLines
 {
-
     public class EvenLines
     {
         static void Main()
@@ -41,8 +40,6 @@ namespace EvenLines
 
             return sb.ToString().TrimEnd();
         }
-
-
 
         private static string ReplaceSymbols(string line)
         {
