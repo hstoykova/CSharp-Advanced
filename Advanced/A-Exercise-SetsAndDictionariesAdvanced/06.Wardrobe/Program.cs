@@ -1,54 +1,76 @@
-﻿namespace _06.Wardrobe
+﻿/*
+2
+Tomato -> Belt,Shirt,Cummerbund,Shirt,Cravat,Shirt,Belt
+OliveDrab -> Jacket,Shoes,Overalls,Shoes,Jacket,Shoes,Shoes
+OliveDrab Jacket
+ */
+
+namespace _06.Wardrobe
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Dictionary<string, Dictionary<string, int>> clothesByColor = new();
+            Dictionary<string, Dictionary<string, int>> wardrobe = new();
+            int n = int.Parse(Console.ReadLine());
 
-            int count = int.Parse(Console.ReadLine());
-
-            for (int i = 0; i < count; i++)
+            for (int i = 0; i < n; i++)
             {
-                string[] tokens = Console.ReadLine()
-                    .Split(new string[] { " -> ", "," }, StringSplitOptions.RemoveEmptyEntries);
+                string input = Console.ReadLine();
+                string[] splitted = input.Split(" -> ", StringSplitOptions.RemoveEmptyEntries);
+                string color = splitted[0];
+                string[] clothes = splitted[1].Split(",", StringSplitOptions.RemoveEmptyEntries);
 
-                string color = tokens[0];
-
-                if (!clothesByColor.ContainsKey(color))
+                if (wardrobe.ContainsKey(color)) //дали цветът е вече добавен
                 {
-                    clothesByColor[color] = new Dictionary<string, int>();
-                }
-
-                for (int j = 1; j < tokens.Length; j++)
-                {
-                    string currentClothing = tokens[j];
-
-                    if (!clothesByColor[color].ContainsKey(currentClothing))
+                    foreach (var item in clothes) //трябва да добавим всяка дреха от съответния цвят
                     {
-                        clothesByColor[color].Add(currentClothing, 0);
+                        if (wardrobe[color].ContainsKey(item)) //проверяваме дали вече има такава дреха от съответния цвят
+                        {
+                            wardrobe[color][item]++;
+                        }
+                        else
+                        {
+                            wardrobe[color].Add(item, 1);
+                        }
+                    }
+                }
+                else //ако цвета не е добавен
+                {
+                    Dictionary<string, int> clothesCount = new();
+                    foreach (var item in clothes)
+                    {
+                        if (clothesCount.ContainsKey(item))
+                        {
+                            clothesCount[item]++;
+                        } else
+                        {
+                            clothesCount.Add(item, 1);
+                        }
                     }
 
-                    clothesByColor[color][currentClothing]++;
+                    wardrobe.Add(color, clothesCount);
                 }
             }
 
-            string[] findParams = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
+            string[] searchedClothes = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
+            string searchedColor = searchedClothes[0];
+            string searchedItem = searchedClothes[1];
 
-            foreach (var color in clothesByColor)
+            foreach (var col in wardrobe)
             {
-                Console.WriteLine($"{color.Key} clothes:");
+                Console.WriteLine($"{col.Key} clothes:");
 
-                foreach (var cloth in color.Value)
+                foreach (var item in col.Value)
                 {
-                    string printItem = $"* {cloth.Key} - {cloth.Value}";
-
-                    if (color.Key == findParams[0] && cloth.Key == findParams[1])
+                    if (col.Key == searchedColor && item.Key == searchedItem)
                     {
-                        printItem += " (found!)";
+                        Console.WriteLine($"* {item.Key} - {item.Value} (found!)");
                     }
-
-                    Console.WriteLine(printItem);
+                    else
+                    {
+                        Console.WriteLine($"* {item.Key} - {item.Value}");
+                    }
                 }
             }
         }
