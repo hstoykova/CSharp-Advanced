@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-FunctionalProgramming\02.KnightsOfHonor\bin\Debug\net6.0\02.KnightsOfHonor.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-FunctionalProgramming\02.KnightsOfHonor\bin\Debug\net6.0\02.KnightsOfHonor.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-FunctionalProgramming\02.KnightsOfHonor\bin\Debug\net6.0\02.KnightsOfHonor.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-FunctionalProgramming\02.KnightsOfHonor\bin\Debug\net6.0\02.KnightsOfHonor.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-FunctionalProgramming\02.KnightsOfHonor\bin\Debug\net6.0\02.KnightsOfHonor.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-FunctionalProgramming\02.KnightsOfHonor\obj\Debug\net6.0\02.KnightsOfHonor.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-FunctionalProgramming\02.KnightsOfHonor\obj\Debug\net6.0\02.KnightsOfHonor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-FunctionalProgramming\02.KnightsOfHonor\obj\Debug\net6.0\02.KnightsOfHonor.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-FunctionalProgramming\02.KnightsOfHonor\obj\Debug\net6.0\02.KnightsOfHonor.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-FunctionalProgramming\02.KnightsOfHonor\obj\Debug\net6.0\02.KnightsOfHonor.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-FunctionalProgramming\02.KnightsOfHonor\obj\Debug\net6.0\02.KnightsOfHonor.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-FunctionalProgramming\02.KnightsOfHonor\obj\Debug\net6.0\refint\02.KnightsOfHonor.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-FunctionalProgramming\02.KnightsOfHonor\obj\Debug\net6.0\02.KnightsOfHonor.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-FunctionalProgramming\02.KnightsOfHonor\obj\Debug\net6.0\02.KnightsOfHonor.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-FunctionalProgramming\02.KnightsOfHonor\obj\Debug\net6.0\ref\02.KnightsOfHonor.dll
