@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.KnightsOfHonor", "02.Kni
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.CustomMinFunction", "03.CustomMinFunction\03.CustomMinFunction.csproj", "{B628B8CB-F2A4-4AFE-8C05-EC0BBD19E265}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.FindEvensOrOdds", "04.FindEvensOrOdds\04.FindEvensOrOdds.csproj", "{193A7C7E-E6FE-4B90-8AE1-F35BA32DF80E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.FindEvensOrOdds", "04.FindEvensOrOdds\04.FindEvensOrOdds.csproj", "{193A7C7E-E6FE-4B90-8AE1-F35BA32DF80E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.AppliedArithmetics", "05.AppliedArithmetics\05.AppliedArithmetics.csproj", "{38407EA8-F2CA-49FA-BE2B-171F8853FBD5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{193A7C7E-E6FE-4B90-8AE1-F35BA32DF80E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{193A7C7E-E6FE-4B90-8AE1-F35BA32DF80E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{193A7C7E-E6FE-4B90-8AE1-F35BA32DF80E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38407EA8-F2CA-49FA-BE2B-171F8853FBD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38407EA8-F2CA-49FA-BE2B-171F8853FBD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38407EA8-F2CA-49FA-BE2B-171F8853FBD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38407EA8-F2CA-49FA-BE2B-171F8853FBD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
