@@ -16,7 +16,7 @@
                 Console.WriteLine(name);
             });
 
-            // Another solution (USING Action<T>):
+            //Another solution(USING Action< T >):
 
             //Action<string[]> print = strings =>
             //    Console.WriteLine(string.Join(Environment.NewLine, strings));

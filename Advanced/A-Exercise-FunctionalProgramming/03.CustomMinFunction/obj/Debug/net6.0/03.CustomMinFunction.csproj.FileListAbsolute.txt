@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-FunctionalProgramming\03.CustomMinFunction\bin\Debug\net6.0\03.CustomMinFunction.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-FunctionalProgramming\03.CustomMinFunction\bin\Debug\net6.0\03.CustomMinFunction.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-FunctionalProgramming\03.CustomMinFunction\bin\Debug\net6.0\03.CustomMinFunction.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-FunctionalProgramming\03.CustomMinFunction\bin\Debug\net6.0\03.CustomMinFunction.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-FunctionalProgramming\03.CustomMinFunction\bin\Debug\net6.0\03.CustomMinFunction.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-FunctionalProgramming\03.CustomMinFunction\obj\Debug\net6.0\03.CustomMinFunction.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-FunctionalProgramming\03.CustomMinFunction\obj\Debug\net6.0\03.CustomMinFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-FunctionalProgramming\03.CustomMinFunction\obj\Debug\net6.0\03.CustomMinFunction.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-FunctionalProgramming\03.CustomMinFunction\obj\Debug\net6.0\03.CustomMinFunction.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-FunctionalProgramming\03.CustomMinFunction\obj\Debug\net6.0\03.CustomMinFunction.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-FunctionalProgramming\03.CustomMinFunction\obj\Debug\net6.0\03.CustomMinFunction.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-FunctionalProgramming\03.CustomMinFunction\obj\Debug\net6.0\refint\03.CustomMinFunction.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-FunctionalProgramming\03.CustomMinFunction\obj\Debug\net6.0\03.CustomMinFunction.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-FunctionalProgramming\03.CustomMinFunction\obj\Debug\net6.0\03.CustomMinFunction.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-FunctionalProgramming\03.CustomMinFunction\obj\Debug\net6.0\ref\03.CustomMinFunction.dll

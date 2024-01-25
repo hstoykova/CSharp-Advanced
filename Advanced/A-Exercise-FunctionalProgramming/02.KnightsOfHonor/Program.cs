@@ -1,4 +1,6 @@
-﻿namespace _02.KnightsOfHonor
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace _02.KnightsOfHonor
 {
     internal class Program
     {
@@ -15,6 +17,21 @@
             {
                 Console.WriteLine($"Sir {name}");
             });
+
+            //Another solution(USING Action< T >):
+
+            //Action<string, string[]> printNamesWithTitle = (title, names) =>
+            //{
+            //    foreach (var name in names)
+            //    {
+            //        Console.WriteLine($"{title} {name}");
+            //    }
+            //};
+
+            //string[] input = Console.ReadLine().
+            //    Split(" ", StringSplitOptions.RemoveEmptyEntries);
+
+            //printNamesWithTitle("Sir", input);
         }
     }
 }
