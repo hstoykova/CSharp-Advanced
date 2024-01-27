@@ -12,6 +12,8 @@ public class Car
     private int year;
     private double fuelQuantity;
     private double fuelConsumption;
+    private Engine engine;
+    private Tire[] tires;
 
     public Car()
     {
@@ -34,6 +36,13 @@ public class Car
     {
         FuelQuantity = fuelQuantity;
         FuelConsumption = fuelConsumption;
+    }
+
+    public Car(string make, string model, int year, double fuelQuantity, double fuelConsumption, Engine engine, Tire[] tire) 
+        : this(make, model, year, fuelQuantity, fuelConsumption)
+    {
+        Engine = engine;
+        Tires = tire;
     }
 
     public string Make
@@ -64,5 +73,17 @@ public class Car
     {
         get { return fuelConsumption; }
         set { fuelConsumption = value; }
+    }
+
+    public Engine Engine
+    {
+        get { return engine; }
+        set { engine = value; }
+    }
+
+    public Tire[] Tires
+    {
+        get { return tires; }
+        set { tires = value; }
     }
 }
