@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-DefiningClasses\05.DateModifier\bin\Debug\net6.0\05.DateModifier.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-DefiningClasses\05.DateModifier\bin\Debug\net6.0\05.DateModifier.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-DefiningClasses\05.DateModifier\bin\Debug\net6.0\05.DateModifier.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-DefiningClasses\05.DateModifier\bin\Debug\net6.0\05.DateModifier.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-DefiningClasses\05.DateModifier\bin\Debug\net6.0\05.DateModifier.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-DefiningClasses\05.DateModifier\obj\Debug\net6.0\05.DateModifier.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-DefiningClasses\05.DateModifier\obj\Debug\net6.0\05.DateModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-DefiningClasses\05.DateModifier\obj\Debug\net6.0\05.DateModifier.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-DefiningClasses\05.DateModifier\obj\Debug\net6.0\05.DateModifier.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-DefiningClasses\05.DateModifier\obj\Debug\net6.0\05.DateModifier.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-DefiningClasses\05.DateModifier\obj\Debug\net6.0\05.DateModifier.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-DefiningClasses\05.DateModifier\obj\Debug\net6.0\refint\05.DateModifier.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-DefiningClasses\05.DateModifier\obj\Debug\net6.0\05.DateModifier.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-DefiningClasses\05.DateModifier\obj\Debug\net6.0\05.DateModifier.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-DefiningClasses\05.DateModifier\obj\Debug\net6.0\ref\05.DateModifier.dll
