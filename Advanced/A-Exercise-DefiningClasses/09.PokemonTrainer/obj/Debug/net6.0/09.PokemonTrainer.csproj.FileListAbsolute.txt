@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-DefiningClasses\09.PokemonTrainer\bin\Debug\net6.0\09.PokemonTrainer.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-DefiningClasses\09.PokemonTrainer\bin\Debug\net6.0\09.PokemonTrainer.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-DefiningClasses\09.PokemonTrainer\bin\Debug\net6.0\09.PokemonTrainer.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-DefiningClasses\09.PokemonTrainer\bin\Debug\net6.0\09.PokemonTrainer.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-DefiningClasses\09.PokemonTrainer\bin\Debug\net6.0\09.PokemonTrainer.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-DefiningClasses\09.PokemonTrainer\obj\Debug\net6.0\09.PokemonTrainer.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-DefiningClasses\09.PokemonTrainer\obj\Debug\net6.0\09.PokemonTrainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-DefiningClasses\09.PokemonTrainer\obj\Debug\net6.0\09.PokemonTrainer.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-DefiningClasses\09.PokemonTrainer\obj\Debug\net6.0\09.PokemonTrainer.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-DefiningClasses\09.PokemonTrainer\obj\Debug\net6.0\09.PokemonTrainer.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-DefiningClasses\09.PokemonTrainer\obj\Debug\net6.0\09.PokemonTrainer.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-DefiningClasses\09.PokemonTrainer\obj\Debug\net6.0\refint\09.PokemonTrainer.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-DefiningClasses\09.PokemonTrainer\obj\Debug\net6.0\09.PokemonTrainer.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-DefiningClasses\09.PokemonTrainer\obj\Debug\net6.0\09.PokemonTrainer.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-DefiningClasses\09.PokemonTrainer\obj\Debug\net6.0\ref\09.PokemonTrainer.dll
