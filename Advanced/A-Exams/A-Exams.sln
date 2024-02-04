@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.OffroadChallenge", "01.O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.FishingCompetition", "02.FishingCompetition\02.FishingCompetition.csproj", "{39152002-BA25-412B-AA05-A6D3FF263F71}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.MailClient", "03.MailClient\03.MailClient.csproj", "{61DA87CB-CCEF-4ECC-AB6E-C97FFD6B0104}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{39152002-BA25-412B-AA05-A6D3FF263F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39152002-BA25-412B-AA05-A6D3FF263F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39152002-BA25-412B-AA05-A6D3FF263F71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61DA87CB-CCEF-4ECC-AB6E-C97FFD6B0104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61DA87CB-CCEF-4ECC-AB6E-C97FFD6B0104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61DA87CB-CCEF-4ECC-AB6E-C97FFD6B0104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61DA87CB-CCEF-4ECC-AB6E-C97FFD6B0104}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
