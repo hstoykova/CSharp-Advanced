@@ -73,23 +73,11 @@ public class MailBox
 	public string GetLongestMessage()
 	{
 		Mail mailIn = Inbox.OrderByDescending(b => b.Body.Length).First();
-		//Mail mailAr = Archive.OrderByDescending(b => b.Body.Length).First();
-
 		return mailIn.ToString();
-
-		//if (mailIn.Body.Length > mailAr.Body.Length)
-		//{
-		//	return mailIn.ToString();
-		//}
-		//else
-		//{
-		//	return mailAr.ToString();
-  //      }
     }
 	public string InboxView()
 	{
 		return $"Inbox:{Environment.NewLine}{string.Join(Environment.NewLine,Inbox)}";
 		
     }
-
 }
