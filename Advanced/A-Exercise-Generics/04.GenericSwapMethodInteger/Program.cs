@@ -25,9 +25,7 @@
 
             static void Swap<T>(int firstIndex, int secondIndex, List<T> items)
             {
-                T temp = items[firstIndex];
-                items[firstIndex] = items[secondIndex];
-                items[secondIndex] = temp;
+                (items[secondIndex], items[firstIndex]) = (items[firstIndex], items[secondIndex]);               
             }
         }
     }
