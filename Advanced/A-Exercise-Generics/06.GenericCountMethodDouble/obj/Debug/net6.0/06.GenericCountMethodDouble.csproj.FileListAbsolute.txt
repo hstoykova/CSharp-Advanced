@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-Generics\06.GenericCountMethodDouble\bin\Debug\net6.0\06.GenericCountMethodDouble.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-Generics\06.GenericCountMethodDouble\bin\Debug\net6.0\06.GenericCountMethodDouble.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-Generics\06.GenericCountMethodDouble\bin\Debug\net6.0\06.GenericCountMethodDouble.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-Generics\06.GenericCountMethodDouble\bin\Debug\net6.0\06.GenericCountMethodDouble.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-Generics\06.GenericCountMethodDouble\bin\Debug\net6.0\06.GenericCountMethodDouble.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-Generics\06.GenericCountMethodDouble\obj\Debug\net6.0\06.GenericCountMethodDouble.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-Generics\06.GenericCountMethodDouble\obj\Debug\net6.0\06.GenericCountMethodDouble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-Generics\06.GenericCountMethodDouble\obj\Debug\net6.0\06.GenericCountMethodDouble.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-Generics\06.GenericCountMethodDouble\obj\Debug\net6.0\06.GenericCountMethodDouble.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-Generics\06.GenericCountMethodDouble\obj\Debug\net6.0\06.GenericCountMethodDouble.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-Generics\06.GenericCountMethodDouble\obj\Debug\net6.0\06.GenericCountMethodDouble.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-Generics\06.GenericCountMethodDouble\obj\Debug\net6.0\refint\06.GenericCountMethodDouble.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-Generics\06.GenericCountMethodDouble\obj\Debug\net6.0\06.GenericCountMethodDouble.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-Generics\06.GenericCountMethodDouble\obj\Debug\net6.0\06.GenericCountMethodDouble.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-Generics\06.GenericCountMethodDouble\obj\Debug\net6.0\ref\06.GenericCountMethodDouble.dll
