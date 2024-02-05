@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Tuple", "07.Tuple\07.Tup
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Threeuple", "08.Threeuple\08.Threeuple.csproj", "{C624677D-EC1B-4F35-A750-6090C95C9891}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.GenericBoxOfInteger", "02.GenericBoxOfInteger\02.GenericBoxOfInteger.csproj", "{1F22015F-EA6A-4C8C-A5B1-84F42361393D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C624677D-EC1B-4F35-A750-6090C95C9891}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C624677D-EC1B-4F35-A750-6090C95C9891}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C624677D-EC1B-4F35-A750-6090C95C9891}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F22015F-EA6A-4C8C-A5B1-84F42361393D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F22015F-EA6A-4C8C-A5B1-84F42361393D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F22015F-EA6A-4C8C-A5B1-84F42361393D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F22015F-EA6A-4C8C-A5B1-84F42361393D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
