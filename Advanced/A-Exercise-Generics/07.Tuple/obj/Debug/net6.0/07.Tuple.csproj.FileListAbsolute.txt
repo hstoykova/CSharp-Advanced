@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-Generics\07.Tuple\bin\Debug\net6.0\07.Tuple.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-Generics\07.Tuple\bin\Debug\net6.0\07.Tuple.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-Generics\07.Tuple\bin\Debug\net6.0\07.Tuple.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-Generics\07.Tuple\bin\Debug\net6.0\07.Tuple.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-Generics\07.Tuple\bin\Debug\net6.0\07.Tuple.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-Generics\07.Tuple\obj\Debug\net6.0\07.Tuple.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-Generics\07.Tuple\obj\Debug\net6.0\07.Tuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-Generics\07.Tuple\obj\Debug\net6.0\07.Tuple.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-Generics\07.Tuple\obj\Debug\net6.0\07.Tuple.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-Generics\07.Tuple\obj\Debug\net6.0\07.Tuple.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-Generics\07.Tuple\obj\Debug\net6.0\07.Tuple.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-Generics\07.Tuple\obj\Debug\net6.0\refint\07.Tuple.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-Generics\07.Tuple\obj\Debug\net6.0\07.Tuple.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-Generics\07.Tuple\obj\Debug\net6.0\07.Tuple.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-Generics\07.Tuple\obj\Debug\net6.0\ref\07.Tuple.dll
