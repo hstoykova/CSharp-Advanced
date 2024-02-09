@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-IteratorsAndComparators\01.ListyIterator\bin\Debug\net6.0\01.ListyIterator.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-IteratorsAndComparators\01.ListyIterator\bin\Debug\net6.0\01.ListyIterator.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-IteratorsAndComparators\01.ListyIterator\bin\Debug\net6.0\01.ListyIterator.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-IteratorsAndComparators\01.ListyIterator\bin\Debug\net6.0\01.ListyIterator.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-IteratorsAndComparators\01.ListyIterator\bin\Debug\net6.0\01.ListyIterator.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-IteratorsAndComparators\01.ListyIterator\obj\Debug\net6.0\01.ListyIterator.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-IteratorsAndComparators\01.ListyIterator\obj\Debug\net6.0\01.ListyIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-IteratorsAndComparators\01.ListyIterator\obj\Debug\net6.0\01.ListyIterator.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-IteratorsAndComparators\01.ListyIterator\obj\Debug\net6.0\01.ListyIterator.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-IteratorsAndComparators\01.ListyIterator\obj\Debug\net6.0\01.ListyIterator.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-IteratorsAndComparators\01.ListyIterator\obj\Debug\net6.0\01.ListyIterator.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-IteratorsAndComparators\01.ListyIterator\obj\Debug\net6.0\refint\01.ListyIterator.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-IteratorsAndComparators\01.ListyIterator\obj\Debug\net6.0\01.ListyIterator.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-IteratorsAndComparators\01.ListyIterator\obj\Debug\net6.0\01.ListyIterator.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exercise-IteratorsAndComparators\01.ListyIterator\obj\Debug\net6.0\ref\01.ListyIterator.dll
