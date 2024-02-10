@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MailClient", "03.MailClient
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.MonsterExtermination", "01.MonsterExtermination\01.MonsterExtermination.csproj", "{526D2097-8192-45BC-BF2B-564C1734C250}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.DeliveryBoy", "02.DeliveryBoy\02.DeliveryBoy.csproj", "{80087C5F-B8C8-4067-9697-E7D3283E47D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{526D2097-8192-45BC-BF2B-564C1734C250}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{526D2097-8192-45BC-BF2B-564C1734C250}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{526D2097-8192-45BC-BF2B-564C1734C250}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80087C5F-B8C8-4067-9697-E7D3283E47D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80087C5F-B8C8-4067-9697-E7D3283E47D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80087C5F-B8C8-4067-9697-E7D3283E47D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80087C5F-B8C8-4067-9697-E7D3283E47D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
