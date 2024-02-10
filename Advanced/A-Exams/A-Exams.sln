@@ -9,11 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.TheGambler", "02.TheGamb
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GroceriesManagement", "03.GroceriesManagement\GroceriesManagement.csproj", "{213FD247-9731-4B65-9B72-80B45F33A40B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.OffroadChallenge", "01.OffroadChallenge\01.OffroadChallenge.csproj", "{6C6A17E7-0C53-4306-9607-97206F08BA42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.OffroadChallenge", "01.OffroadChallenge\01.OffroadChallenge.csproj", "{6C6A17E7-0C53-4306-9607-97206F08BA42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.FishingCompetition", "02.FishingCompetition\02.FishingCompetition.csproj", "{39152002-BA25-412B-AA05-A6D3FF263F71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.FishingCompetition", "02.FishingCompetition\02.FishingCompetition.csproj", "{39152002-BA25-412B-AA05-A6D3FF263F71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.MailClient", "03.MailClient\03.MailClient.csproj", "{61DA87CB-CCEF-4ECC-AB6E-C97FFD6B0104}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MailClient", "03.MailClient\MailClient.csproj", "{BEFC50FA-3689-47A8-A6F8-88C8F6961FBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.MonsterExtermination", "01.MonsterExtermination\01.MonsterExtermination.csproj", "{526D2097-8192-45BC-BF2B-564C1734C250}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,10 +43,14 @@ Global
 		{39152002-BA25-412B-AA05-A6D3FF263F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39152002-BA25-412B-AA05-A6D3FF263F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39152002-BA25-412B-AA05-A6D3FF263F71}.Release|Any CPU.Build.0 = Release|Any CPU
-		{61DA87CB-CCEF-4ECC-AB6E-C97FFD6B0104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{61DA87CB-CCEF-4ECC-AB6E-C97FFD6B0104}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{61DA87CB-CCEF-4ECC-AB6E-C97FFD6B0104}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{61DA87CB-CCEF-4ECC-AB6E-C97FFD6B0104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEFC50FA-3689-47A8-A6F8-88C8F6961FBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEFC50FA-3689-47A8-A6F8-88C8F6961FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEFC50FA-3689-47A8-A6F8-88C8F6961FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEFC50FA-3689-47A8-A6F8-88C8F6961FBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{526D2097-8192-45BC-BF2B-564C1734C250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{526D2097-8192-45BC-BF2B-564C1734C250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{526D2097-8192-45BC-BF2B-564C1734C250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{526D2097-8192-45BC-BF2B-564C1734C250}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
