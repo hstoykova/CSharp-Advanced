@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exams\02.TheSquirrel\bin\Debug\net6.0\02.TheSquirrel.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exams\02.TheSquirrel\bin\Debug\net6.0\02.TheSquirrel.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exams\02.TheSquirrel\bin\Debug\net6.0\02.TheSquirrel.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exams\02.TheSquirrel\bin\Debug\net6.0\02.TheSquirrel.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exams\02.TheSquirrel\bin\Debug\net6.0\02.TheSquirrel.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exams\02.TheSquirrel\obj\Debug\net6.0\02.TheSquirrel.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exams\02.TheSquirrel\obj\Debug\net6.0\02.TheSquirrel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exams\02.TheSquirrel\obj\Debug\net6.0\02.TheSquirrel.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exams\02.TheSquirrel\obj\Debug\net6.0\02.TheSquirrel.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exams\02.TheSquirrel\obj\Debug\net6.0\02.TheSquirrel.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exams\02.TheSquirrel\obj\Debug\net6.0\02.TheSquirrel.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exams\02.TheSquirrel\obj\Debug\net6.0\refint\02.TheSquirrel.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exams\02.TheSquirrel\obj\Debug\net6.0\02.TheSquirrel.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exams\02.TheSquirrel\obj\Debug\net6.0\02.TheSquirrel.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exams\02.TheSquirrel\obj\Debug\net6.0\ref\02.TheSquirrel.dll

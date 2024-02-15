@@ -21,11 +21,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.DeliveryBoy", "02.Delive
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VendingSystem", "03.VendingSystem\VendingSystem.csproj", "{911B8BEA-75BC-4586-988A-F3C04DBEE84C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.TempleOfDoom", "01.TempleOfDoom\01.TempleOfDoom.csproj", "{C04397C4-FB72-4427-B43C-EA3B51603E71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.TempleOfDoom", "01.TempleOfDoom\01.TempleOfDoom.csproj", "{C04397C4-FB72-4427-B43C-EA3B51603E71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.MouseInTheKitchen", "02.MouseInTheKitchen\02.MouseInTheKitchen.csproj", "{E6CF98D6-CCFA-4BD1-81BA-1A365DB800AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.MouseInTheKitchen", "02.MouseInTheKitchen\02.MouseInTheKitchen.csproj", "{E6CF98D6-CCFA-4BD1-81BA-1A365DB800AB}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutomotiveRepairShop", "03.AutomotiveRepairShop\AutomotiveRepairShop.csproj", "{212E4C2B-5F34-44EC-863F-91504A56F0D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.RubberDuckDebugers", "01.RubberDuckDebugers\01.RubberDuckDebugers.csproj", "{A522A9C3-FCFC-4EDA-B726-9B336109AFC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.TheSquirrel", "02.TheSquirrel\02.TheSquirrel.csproj", "{A4813262-2D65-4D5F-A3F7-C2EDA5281B0A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,14 @@ Global
 		{212E4C2B-5F34-44EC-863F-91504A56F0D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{212E4C2B-5F34-44EC-863F-91504A56F0D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{212E4C2B-5F34-44EC-863F-91504A56F0D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A522A9C3-FCFC-4EDA-B726-9B336109AFC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A522A9C3-FCFC-4EDA-B726-9B336109AFC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A522A9C3-FCFC-4EDA-B726-9B336109AFC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A522A9C3-FCFC-4EDA-B726-9B336109AFC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4813262-2D65-4D5F-A3F7-C2EDA5281B0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4813262-2D65-4D5F-A3F7-C2EDA5281B0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4813262-2D65-4D5F-A3F7-C2EDA5281B0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4813262-2D65-4D5F-A3F7-C2EDA5281B0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
