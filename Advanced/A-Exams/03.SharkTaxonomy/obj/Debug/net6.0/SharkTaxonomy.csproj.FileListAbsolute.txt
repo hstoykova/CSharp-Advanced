@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exams\03.SharkTaxonomy\bin\Debug\net6.0\SharkTaxonomy.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exams\03.SharkTaxonomy\bin\Debug\net6.0\SharkTaxonomy.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exams\03.SharkTaxonomy\bin\Debug\net6.0\SharkTaxonomy.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exams\03.SharkTaxonomy\bin\Debug\net6.0\SharkTaxonomy.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exams\03.SharkTaxonomy\bin\Debug\net6.0\SharkTaxonomy.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exams\03.SharkTaxonomy\obj\Debug\net6.0\SharkTaxonomy.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exams\03.SharkTaxonomy\obj\Debug\net6.0\SharkTaxonomy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exams\03.SharkTaxonomy\obj\Debug\net6.0\SharkTaxonomy.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exams\03.SharkTaxonomy\obj\Debug\net6.0\SharkTaxonomy.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exams\03.SharkTaxonomy\obj\Debug\net6.0\SharkTaxonomy.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exams\03.SharkTaxonomy\obj\Debug\net6.0\SharkTaxonomy.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exams\03.SharkTaxonomy\obj\Debug\net6.0\refint\SharkTaxonomy.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exams\03.SharkTaxonomy\obj\Debug\net6.0\SharkTaxonomy.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exams\03.SharkTaxonomy\obj\Debug\net6.0\SharkTaxonomy.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Exams\03.SharkTaxonomy\obj\Debug\net6.0\ref\SharkTaxonomy.dll
