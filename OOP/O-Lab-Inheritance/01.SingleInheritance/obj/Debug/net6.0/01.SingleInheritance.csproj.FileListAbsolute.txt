@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Lab-Inheritance\01.Person\bin\Debug\net6.0\01.SingleInheritance.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Lab-Inheritance\01.Person\bin\Debug\net6.0\01.SingleInheritance.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Lab-Inheritance\01.Person\bin\Debug\net6.0\01.SingleInheritance.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Lab-Inheritance\01.Person\bin\Debug\net6.0\01.SingleInheritance.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Lab-Inheritance\01.Person\bin\Debug\net6.0\01.SingleInheritance.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Lab-Inheritance\01.Person\obj\Debug\net6.0\01.SingleInheritance.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Lab-Inheritance\01.Person\obj\Debug\net6.0\01.SingleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Lab-Inheritance\01.Person\obj\Debug\net6.0\01.SingleInheritance.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Lab-Inheritance\01.Person\obj\Debug\net6.0\01.SingleInheritance.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Lab-Inheritance\01.Person\obj\Debug\net6.0\01.SingleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Lab-Inheritance\01.Person\obj\Debug\net6.0\01.SingleInheritance.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Lab-Inheritance\01.Person\obj\Debug\net6.0\refint\01.SingleInheritance.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Lab-Inheritance\01.Person\obj\Debug\net6.0\01.SingleInheritance.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Lab-Inheritance\01.Person\obj\Debug\net6.0\01.SingleInheritance.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Lab-Inheritance\01.Person\obj\Debug\net6.0\ref\01.SingleInheritance.dll
