@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Inheritance\04.NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Inheritance\04.NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Inheritance\04.NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Inheritance\04.NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Inheritance\04.NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Inheritance\04.NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Inheritance\04.NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Inheritance\04.NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Inheritance\04.NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Inheritance\04.NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Inheritance\04.NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Inheritance\04.NeedForSpeed\obj\Debug\net6.0\refint\NeedForSpeed.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Inheritance\04.NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Inheritance\04.NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Inheritance\04.NeedForSpeed\obj\Debug\net6.0\ref\NeedForSpeed.dll
