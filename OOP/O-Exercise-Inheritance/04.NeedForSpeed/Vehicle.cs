@@ -33,20 +33,22 @@ public class Vehicle
 		get { return fuelConsumption; }
 		set { fuelConsumption = value; }
 	}
+
+    public double Fuel
+    {
+        get { return fuel; }
+        set { fuel = value; }
+    }
     public int HorsePower
     {
         get { return horsePower; }
         set { horsePower = value; }
     }
 
-    public double Fuel
-	{
-		get { return fuel; }
-		set { fuel = value; }
-	}
+   
 
 	public virtual void Drive(double kilometers)
 	{
-            this.Fuel -= kilometers * FuelConsumption;
+            Fuel -= kilometers * DefaultFuelConsumption;
     }
 }
