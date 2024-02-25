@@ -37,6 +37,7 @@ public class Box
             {
                 throw new ArgumentException("Width cannot be zero or negative.");
             }
+            width = value;
         }
     }
 
@@ -49,24 +50,25 @@ public class Box
             {
                 throw new ArgumentException("Height cannot be zero or negative.");
             }
+            height = value;
         }
     }
 
-    public double SurfaceArea(double length, double width, double heihht)
+    public double SurfaceArea()
     {
-        return 2 * length * width + 2 * length * heihht + 2 * width * heihht;
+        return 2 * Length * Width + 2 * Length * Height + 2 * Width * Height;
         // 2lw + 2lh + 2wh
     }
 
-    public double LateralSurfaceArea(double length, double width, double heihht)
+    public double LateralSurfaceArea()
     {
-        return 2 * length * heihht + 2 * width * heihht;
+        return 2 * Length * Height + 2 * Width * Height;
         //2lh + 2wh
     }
 
-    public double Volume(double length, double width, double heihht)
+    public double Volume()
     {
-        return length * width * heihht;
+        return Length * Width * Height;
         //lwh
     }
 }
