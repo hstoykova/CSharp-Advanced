@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hr7mp/j+Y8cPZ9008V3Ell3xUWc35aWVDEhlTlXbQWXyZiR1Vs9ykctuMqu8wtFbzMe4vLf90qvRJDVgLzy8DQ==",
+  "dgSpecHash": "EM8StUk4Sp7u9jMFhidqGqPGAkRPH+gy568z/qsPC+9/QJRxWO1PfLShv4fkz3jNcvZTF51+iANV17bGgyBnkg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Advanced\\OOP\\O-Exercise-Polymorphism\\02.VehiclesExtension\\02.VehiclesExtension.csproj",
+  "projectFilePath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Advanced\\OOP\\O-Exercise-Polymorphism\\02.VehiclesExtension\\02.VehicleExtension.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

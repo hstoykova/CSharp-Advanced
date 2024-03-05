@@ -1,5 +1,6 @@
 ﻿using System;
 using Vehicles.Core.Interfaces;
+using Vehicles.Factories.Interfaces;
 using Vehicles.Factories.IO.Interfaces;
 using Vehicles.Models;
 using Vehicles.Models.Interfaces;
@@ -10,22 +11,22 @@ public class Engine : IEngine
 {
     private readonly IReader reader;
     private readonly IWriter writer;
+    private readonly IVehicleFactory vehicleFactory;
 
     private readonly ICollection<IVehicle> vehicles;
 
-    public Engine(IReader reader, IWriter writer)
+    public Engine(IReader reader, IWriter writer, IVehicleFactory vehicleFactory)
     {
         this.reader = reader;
         this.writer = writer;
+        this.vehicleFactory = vehicleFactory;
         vehicles = new List<IVehicle>();
     }
     public void Run()
-    {
-        string[] tokens = reader.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
-        vehicles.Add(new Car(double.Parse(tokens[1]), double.Parse(tokens[2])));
-
-        tokens = reader.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
-        vehicles.Add(new Truck(double.Parse(tokens[1]), double.Parse(tokens[2])));
+    {    
+        vehicles.Add(CreateVehicle()); // Car
+        vehicles.Add(CreateVehicle()); // Truck
+        vehicles.Add(CreateVehicle()); // Bus
 
         int commandsCount = int.Parse(reader.ReadLine());
 
@@ -55,16 +56,31 @@ public class Engine : IEngine
         string vehicleType = commandTokens[1];
 
         IVehicle vehicle = vehicles.FirstOrDefault(v => v.GetType().Name == vehicleType);
+        if (vehicle == null)
+        {
+            throw new ArgumentException("Invalid vehicle type");
+        }
 
         if (command == "Drive")
         {
             double distance = double.Parse(commandTokens[2]);
             writer.WriteLine(vehicle.Drive(distance));
         }
+        else if (command == "DriveEmpty")
+        {
+            double distance = double.Parse(commandTokens[2]);
+            writer.WriteLine(vehicle.Drive(distance, false));
+        }
         else if(command == "Refuel")
         {
             double amount = double.Parse(commandTokens[2]);
             vehicle.Refuel(amount);  
         }
+    }
+
+    private IVehicle CreateVehicle()
+    {
+        string[] tokens = reader.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
+        return vehicleFactory.Create(tokens[0], double.Parse(tokens[1]), double.Parse(tokens[2]), double.Parse(tokens[3]));
     }
 }

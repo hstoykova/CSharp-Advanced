@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Advanced\\OOP\\O-Exercise-Polymorphism\\02.VehiclesExtension\\02.VehiclesExtension.csproj",
-      "projectName": "02.VehiclesExtension",
-      "projectPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Advanced\\OOP\\O-Exercise-Polymorphism\\02.VehiclesExtension\\02.VehiclesExtension.csproj",
+      "projectUniqueName": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Advanced\\OOP\\O-Exercise-Polymorphism\\02.VehiclesExtension\\02.VehicleExtension.csproj",
+      "projectName": "02.VehicleExtension",
+      "projectPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Advanced\\OOP\\O-Exercise-Polymorphism\\02.VehiclesExtension\\02.VehicleExtension.csproj",
       "packagesPath": "C:\\Users\\hstoykova5\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Advanced\\OOP\\O-Exercise-Polymorphism\\02.VehiclesExtension\\obj\\",
       "projectStyle": "PackageReference",

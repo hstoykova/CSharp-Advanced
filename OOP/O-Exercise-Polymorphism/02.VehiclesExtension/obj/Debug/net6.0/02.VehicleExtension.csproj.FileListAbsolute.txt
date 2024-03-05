@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Polymorphism\02.VehiclesExtension\bin\Debug\net6.0\02.VehicleExtension.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Polymorphism\02.VehiclesExtension\bin\Debug\net6.0\02.VehicleExtension.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Polymorphism\02.VehiclesExtension\bin\Debug\net6.0\02.VehicleExtension.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Polymorphism\02.VehiclesExtension\bin\Debug\net6.0\02.VehicleExtension.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Polymorphism\02.VehiclesExtension\bin\Debug\net6.0\02.VehicleExtension.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Polymorphism\02.VehiclesExtension\obj\Debug\net6.0\02.VehicleExtension.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Polymorphism\02.VehiclesExtension\obj\Debug\net6.0\02.VehicleExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Polymorphism\02.VehiclesExtension\obj\Debug\net6.0\02.VehicleExtension.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Polymorphism\02.VehiclesExtension\obj\Debug\net6.0\02.VehicleExtension.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Polymorphism\02.VehiclesExtension\obj\Debug\net6.0\02.VehicleExtension.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Polymorphism\02.VehiclesExtension\obj\Debug\net6.0\02.VehicleExtension.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Polymorphism\02.VehiclesExtension\obj\Debug\net6.0\refint\02.VehicleExtension.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Polymorphism\02.VehiclesExtension\obj\Debug\net6.0\02.VehicleExtension.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Polymorphism\02.VehiclesExtension\obj\Debug\net6.0\02.VehicleExtension.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Polymorphism\02.VehiclesExtension\obj\Debug\net6.0\ref\02.VehicleExtension.dll
