@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Polymorphism\03.Raiding\bin\Debug\net6.0\03.Riding.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Polymorphism\03.Raiding\bin\Debug\net6.0\03.Riding.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Polymorphism\03.Raiding\bin\Debug\net6.0\03.Riding.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Polymorphism\03.Raiding\bin\Debug\net6.0\03.Riding.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Polymorphism\03.Raiding\bin\Debug\net6.0\03.Riding.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Polymorphism\03.Raiding\obj\Debug\net6.0\03.Riding.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Polymorphism\03.Raiding\obj\Debug\net6.0\03.Riding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Polymorphism\03.Raiding\obj\Debug\net6.0\03.Riding.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Polymorphism\03.Raiding\obj\Debug\net6.0\03.Riding.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Polymorphism\03.Raiding\obj\Debug\net6.0\03.Riding.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Polymorphism\03.Raiding\obj\Debug\net6.0\03.Riding.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Polymorphism\03.Raiding\obj\Debug\net6.0\refint\03.Riding.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Polymorphism\03.Raiding\obj\Debug\net6.0\03.Riding.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Polymorphism\03.Raiding\obj\Debug\net6.0\03.Riding.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Polymorphism\03.Raiding\obj\Debug\net6.0\ref\03.Riding.dll
