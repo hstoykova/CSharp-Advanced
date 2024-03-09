@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Riding", "03.Raiding\03.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.VehicleExtension", "02.VehiclesExtension\02.VehicleExtension.csproj", "{C30D1849-C6E9-4E4B-B6C7-9B08B52E47DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.WildFarm", "04.WildFarm\04.WildFarm.csproj", "{80FBE56B-C0AE-401C-957F-071176C29919}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C30D1849-C6E9-4E4B-B6C7-9B08B52E47DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C30D1849-C6E9-4E4B-B6C7-9B08B52E47DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C30D1849-C6E9-4E4B-B6C7-9B08B52E47DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80FBE56B-C0AE-401C-957F-071176C29919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80FBE56B-C0AE-401C-957F-071176C29919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80FBE56B-C0AE-401C-957F-071176C29919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80FBE56B-C0AE-401C-957F-071176C29919}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
