@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Skeleton", "01. Test Axe_Skeleton_6.0\Skeleton\Skeleton.csproj", "{6281A3CF-8FA3-4755-9017-A0035F2E4580}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Skeleton.Tests", "01. Test Axe_Skeleton_6.0\Skeleton.Tests\Skeleton.Tests.csproj", "{12824E17-9767-4D7F-AFF7-BF5FE404BCE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6281A3CF-8FA3-4755-9017-A0035F2E4580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6281A3CF-8FA3-4755-9017-A0035F2E4580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6281A3CF-8FA3-4755-9017-A0035F2E4580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6281A3CF-8FA3-4755-9017-A0035F2E4580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12824E17-9767-4D7F-AFF7-BF5FE404BCE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12824E17-9767-4D7F-AFF7-BF5FE404BCE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12824E17-9767-4D7F-AFF7-BF5FE404BCE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12824E17-9767-4D7F-AFF7-BF5FE404BCE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8D9AA98-0642-44A2-8E67-2927C085A433}
+	EndGlobalSection
+EndGlobal
