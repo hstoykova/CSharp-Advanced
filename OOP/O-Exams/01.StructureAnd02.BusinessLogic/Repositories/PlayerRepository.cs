@@ -1,4 +1,5 @@
-﻿using Handball.Models.Contracts;
+﻿using Handball.Models;
+using Handball.Models.Contracts;
 using Handball.Repositories.Contracts;
 using System;
 using System.Collections.Generic;
@@ -12,9 +13,14 @@ public class PlayerRepository : IRepository<IPlayer>
 {
     private List<IPlayer> models;
 
+    public PlayerRepository()
+    {
+        models = new List<IPlayer>();
+    }
+
     public IReadOnlyCollection<IPlayer> Models
     {
-        get { return models; }
+        get { return models.AsReadOnly(); }
     }
 
     public void AddModel(IPlayer model)
@@ -24,36 +30,19 @@ public class PlayerRepository : IRepository<IPlayer>
 
     public bool ExistsModel(string name)
     {
-        var model = models.Find(x => x.Name == name);
-
-        if (model is null)
-        {
-            return false;
-        }
-        else
-        {
-            return true;
-        }
+        return models.Any(x => x.Name == name);
     }
 
     public IPlayer GetModel(string name)
     {
-        return models.Find(x => x.Name == name);
+        return models.FirstOrDefault(x => x.Name == name);
         // return null not implemented
     }
 
     public bool RemoveModel(string name)
     {
-        var model = models.Find(x => x.Name == name);
+        IPlayer player = GetModel(name);
 
-        if (model is null)
-        {
-            return false;
-        }
-        else
-        {
-            models.Remove(model);
-            return true;
-        }
+        return models.Remove(player);
     }
 }

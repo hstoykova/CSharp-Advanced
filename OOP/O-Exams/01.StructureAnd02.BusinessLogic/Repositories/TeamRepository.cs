@@ -1,4 +1,5 @@
-﻿using Handball.Models.Contracts;
+﻿using Handball.Models;
+using Handball.Models.Contracts;
 using Handball.Repositories.Contracts;
 using System;
 using System.Collections.Generic;
@@ -12,9 +13,14 @@ public class TeamRepository : IRepository<ITeam>
 {
     private List<ITeam> models;
 
+    public TeamRepository()
+    {
+        models = new List<ITeam>();
+    }
+
     public IReadOnlyCollection<ITeam> Models
     {
-        get { return models; }
+        get { return models.AsReadOnly(); }
         //set { models = value; }
     }
 
@@ -25,36 +31,19 @@ public class TeamRepository : IRepository<ITeam>
 
     public bool ExistsModel(string name)
     {
-        var model = models.Find(x => x.Name == name);
-
-        if (model is null)
-        {
-            return false;
-        }
-        else
-        {
-            return true;
-        }
+        return models.Any(x => x.Name == name);
     }
 
     public ITeam GetModel(string name)
     {
-        return models.Find(x => x.Name == name);
+        return models.FirstOrDefault(x => x.Name == name);
         // return null not implemented
     }
 
     public bool RemoveModel(string name)
     {
-        var model = models.Find(x => x.Name == name);
+        ITeam team = GetModel(name);
 
-        if (model is null)
-        {
-            return false;
-        }
-        else
-        {
-            models.Remove(model);
-            return true;
-        }
+        return models.Remove(team);
     }
 }

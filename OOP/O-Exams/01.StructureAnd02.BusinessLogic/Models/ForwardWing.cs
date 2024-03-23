@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Handball.Models.Contracts;
+namespace Handball.Models;
 
 public class ForwardWing : Player
 {
-    public ForwardWing(string name) 
+    public ForwardWing(string name)
         : base(name, 5.5)
     {
     }

@@ -13,7 +13,7 @@ public class Team : ITeam
     public Team(string name)
     {
         Name = name;
-        PointsEarned = 0;
+        //PointsEarned = 0;
         players = new List<IPlayer> ();
     }
 
@@ -44,13 +44,19 @@ public class Team : ITeam
 
     public double OverallRating
     {
-        get { return Math.Round(Players.Select(p => p.Rating).Average(), 2); } // return 0 not implemented
+        get 
+        {
+            if (players.Count == 0)
+            {
+                return 0;
+            }
+
+            return Math.Round(Players.Average(p => p.Rating), 2); 
+        } // return 0 not implemented
         // can be private set
     }
 
     private List<IPlayer> players;
-
-   
 
     public IReadOnlyCollection<IPlayer> Players
     {
@@ -96,9 +102,8 @@ public class Team : ITeam
     {
         StringBuilder sb = new();
         sb.AppendLine($"Team: {Name} Points: {PointsEarned}");
-        sb.AppendLine();
         sb.AppendLine($"--Overall rating: {OverallRating}");
-        sb.AppendLine("--Players: ");
+        sb.Append("--Players: ");
 
         if (players.Any())
         {
@@ -109,6 +114,7 @@ public class Team : ITeam
             sb.Append("none");
 
         }
+
         return sb.ToString().Trim();
     }
 }

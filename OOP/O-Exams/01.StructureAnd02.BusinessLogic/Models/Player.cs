@@ -38,8 +38,14 @@ public abstract class Player : IPlayer
         get { return rating; }
         protected set 
         {
-            if (value > 10 || value < 1)
+            if (value > 10)
             {
+                rating = 10;
+                return;
+            }
+            else if (value < 1)
+            {
+                rating = 1;
                 return;
             }
             rating = value; 
@@ -51,7 +57,7 @@ public abstract class Player : IPlayer
     public string Team
     {
         get { return team; }
-        private set { team = value; }
+        //private set { team = value; }
     }
 
     public abstract void DecreaseRating();
@@ -60,7 +66,7 @@ public abstract class Player : IPlayer
 
     public void JoinTeam(string name)
     {
-        Team = name;
+        team = name;
     }
 
     public override string ToString()

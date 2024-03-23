@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Handball.Models.Contracts;
+namespace Handball.Models;
 
 public class CenterBack : Player
 {
-    public CenterBack(string name) 
+    public CenterBack(string name)
         : base(name, 4)
     {
     }
