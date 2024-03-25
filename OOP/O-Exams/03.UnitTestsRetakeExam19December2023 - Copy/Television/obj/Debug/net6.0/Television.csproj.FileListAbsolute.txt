@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exams\03.UnitTestsRetakeExam19December2023 - Copy\Television\bin\Debug\net6.0\Television.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exams\03.UnitTestsRetakeExam19December2023 - Copy\Television\bin\Debug\net6.0\Television.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exams\03.UnitTestsRetakeExam19December2023 - Copy\Television\bin\Debug\net6.0\Television.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exams\03.UnitTestsRetakeExam19December2023 - Copy\Television\bin\Debug\net6.0\Television.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exams\03.UnitTestsRetakeExam19December2023 - Copy\Television\bin\Debug\net6.0\Television.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exams\03.UnitTestsRetakeExam19December2023 - Copy\Television\obj\Debug\net6.0\Television.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exams\03.UnitTestsRetakeExam19December2023 - Copy\Television\obj\Debug\net6.0\Television.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exams\03.UnitTestsRetakeExam19December2023 - Copy\Television\obj\Debug\net6.0\Television.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exams\03.UnitTestsRetakeExam19December2023 - Copy\Television\obj\Debug\net6.0\Television.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exams\03.UnitTestsRetakeExam19December2023 - Copy\Television\obj\Debug\net6.0\Television.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exams\03.UnitTestsRetakeExam19December2023 - Copy\Television\obj\Debug\net6.0\Television.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exams\03.UnitTestsRetakeExam19December2023 - Copy\Television\obj\Debug\net6.0\refint\Television.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exams\03.UnitTestsRetakeExam19December2023 - Copy\Television\obj\Debug\net6.0\Television.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exams\03.UnitTestsRetakeExam19December2023 - Copy\Television\obj\Debug\net6.0\Television.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exams\03.UnitTestsRetakeExam19December2023 - Copy\Television\obj\Debug\net6.0\ref\Television.dll

@@ -9,6 +9,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartDevice", "03.UnitTests
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartDevice.Tests", "03.UnitTests\SmartDevice.Tests\SmartDevice.Tests.csproj", "{DE17AF88-7448-44BA-BB8A-AC740392406E}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HighwayToPeak", "01.StructureAnd02.BusinessLogicRetakeExam19December2023\HighwayToPeak.csproj", "{692B7EF6-D10C-461C-B0E7-2CE3CB7CBA69}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Television", "03.UnitTestsRetakeExam19December2023 - Copy\Television\Television.csproj", "{40FA0494-0BDB-4BFE-B6F5-56F1E8E462C8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Television.Tests", "03.UnitTestsRetakeExam19December2023 - Copy\Television.Tests\Television.Tests.csproj", "{4535BE45-08D3-472B-8823-DDF034406CE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +33,18 @@ Global
 		{DE17AF88-7448-44BA-BB8A-AC740392406E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE17AF88-7448-44BA-BB8A-AC740392406E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE17AF88-7448-44BA-BB8A-AC740392406E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{692B7EF6-D10C-461C-B0E7-2CE3CB7CBA69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{692B7EF6-D10C-461C-B0E7-2CE3CB7CBA69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{692B7EF6-D10C-461C-B0E7-2CE3CB7CBA69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{692B7EF6-D10C-461C-B0E7-2CE3CB7CBA69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40FA0494-0BDB-4BFE-B6F5-56F1E8E462C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40FA0494-0BDB-4BFE-B6F5-56F1E8E462C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40FA0494-0BDB-4BFE-B6F5-56F1E8E462C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40FA0494-0BDB-4BFE-B6F5-56F1E8E462C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4535BE45-08D3-472B-8823-DDF034406CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4535BE45-08D3-472B-8823-DDF034406CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4535BE45-08D3-472B-8823-DDF034406CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4535BE45-08D3-472B-8823-DDF034406CE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

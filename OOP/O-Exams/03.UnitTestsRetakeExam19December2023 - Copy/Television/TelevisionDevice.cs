@@ -82,6 +82,5 @@
         {
             return $"TV Device: {Brand}, Screen Resolution: {ScreenWidth}x{ScreenHeigth}, Price {Price}$";
         }
-
     }
 }
