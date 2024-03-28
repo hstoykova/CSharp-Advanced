@@ -13,6 +13,10 @@ public class ClimberRepository : IRepository<IClimber>
 {
     private List<IClimber> climbers;
 
+    public ClimberRepository()
+    {
+          climbers = new List<IClimber>();
+    }
     public IReadOnlyCollection<IClimber> All
     {
         get { return climbers.AsReadOnly(); }

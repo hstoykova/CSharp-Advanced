@@ -12,6 +12,10 @@ public class PeakRepository : IRepository<IPeak>
 {
     private List<IPeak> peaks;
 
+    public PeakRepository()
+    {
+         peaks = new List<IPeak>();
+    }
     public IReadOnlyCollection<IPeak> All
     {
         get { return peaks.AsReadOnly(); }
