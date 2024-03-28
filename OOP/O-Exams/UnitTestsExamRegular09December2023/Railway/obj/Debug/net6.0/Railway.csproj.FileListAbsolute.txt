@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exams\UnitTestsExamRegular09December2023\Railway\bin\Debug\net6.0\Railway.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exams\UnitTestsExamRegular09December2023\Railway\bin\Debug\net6.0\Railway.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exams\UnitTestsExamRegular09December2023\Railway\bin\Debug\net6.0\Railway.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exams\UnitTestsExamRegular09December2023\Railway\bin\Debug\net6.0\Railway.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exams\UnitTestsExamRegular09December2023\Railway\bin\Debug\net6.0\Railway.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exams\UnitTestsExamRegular09December2023\Railway\obj\Debug\net6.0\Railway.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exams\UnitTestsExamRegular09December2023\Railway\obj\Debug\net6.0\Railway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exams\UnitTestsExamRegular09December2023\Railway\obj\Debug\net6.0\Railway.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exams\UnitTestsExamRegular09December2023\Railway\obj\Debug\net6.0\Railway.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exams\UnitTestsExamRegular09December2023\Railway\obj\Debug\net6.0\Railway.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exams\UnitTestsExamRegular09December2023\Railway\obj\Debug\net6.0\Railway.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exams\UnitTestsExamRegular09December2023\Railway\obj\Debug\net6.0\refint\Railway.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exams\UnitTestsExamRegular09December2023\Railway\obj\Debug\net6.0\Railway.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exams\UnitTestsExamRegular09December2023\Railway\obj\Debug\net6.0\Railway.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exams\UnitTestsExamRegular09December2023\Railway\obj\Debug\net6.0\ref\Railway.dll
