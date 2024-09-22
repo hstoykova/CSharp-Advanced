@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _8.TrafficJam
 build_property.ProjectDir = C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\Advanced\A-Lab-StacksAndQueues\8.TrafficJam\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

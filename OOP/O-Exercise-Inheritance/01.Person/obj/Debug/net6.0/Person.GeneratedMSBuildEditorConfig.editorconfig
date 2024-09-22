@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Person
 build_property.ProjectDir = C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Exercise-Inheritance\01.Person\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

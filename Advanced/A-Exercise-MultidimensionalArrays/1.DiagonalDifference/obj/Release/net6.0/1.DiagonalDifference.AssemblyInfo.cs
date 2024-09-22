@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("1.DiagonalDifference")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eafff2e22ff2ce523d21beeab01041f9169b7cba")]
 [assembly: System.Reflection.AssemblyProductAttribute("1.DiagonalDifference")]
 [assembly: System.Reflection.AssemblyTitleAttribute("1.DiagonalDifference")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

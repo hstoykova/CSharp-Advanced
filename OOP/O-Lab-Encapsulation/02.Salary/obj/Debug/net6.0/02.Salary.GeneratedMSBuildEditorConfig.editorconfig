@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PersonsInfo
 build_property.ProjectDir = C:\Users\hstoykova5\Documents\GitHub\CSharp-Advanced\OOP\O-Lab-Encapsulation\02.Salary\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
